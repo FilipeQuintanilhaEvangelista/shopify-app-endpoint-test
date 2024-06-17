@@ -3,7 +3,7 @@
 client_id = "6b71a939d9db982487be2e55286fbc6a"
 name = "teste-neki-hotsite"
 handle = "teste-neki-hotsite"
-application_url = "https://colony-belong-must-manage.trycloudflare.com"
+application_url = "https://albert-narrative-periods-brooklyn.trycloudflare.com"
 embedded = true
 
 [build]
@@ -13,13 +13,13 @@ include_config_on_deploy = true
 
 [access_scopes]
 # Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
-scopes = "write_products"
+scopes = "read_script_tags,write_products,write_script_tags"
 
 [auth]
 redirect_urls = [
-  "https://colony-belong-must-manage.trycloudflare.com/auth/callback",
-  "https://colony-belong-must-manage.trycloudflare.com/auth/shopify/callback",
-  "https://colony-belong-must-manage.trycloudflare.com/api/auth/callback"
+  "https://albert-narrative-periods-brooklyn.trycloudflare.com/auth/callback",
+  "https://albert-narrative-periods-brooklyn.trycloudflare.com/auth/shopify/callback",
+  "https://albert-narrative-periods-brooklyn.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
