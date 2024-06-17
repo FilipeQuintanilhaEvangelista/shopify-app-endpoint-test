@@ -3,7 +3,7 @@
 client_id = "6b71a939d9db982487be2e55286fbc6a"
 name = "teste-neki-hotsite"
 handle = "teste-neki-hotsite"
-application_url = "https://glossary-above-stud-destinations.trycloudflare.com"
+application_url = "https://colony-belong-must-manage.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://glossary-above-stud-destinations.trycloudflare.com/auth/callback",
-  "https://glossary-above-stud-destinations.trycloudflare.com/auth/shopify/callback",
-  "https://glossary-above-stud-destinations.trycloudflare.com/api/auth/callback"
+  "https://colony-belong-must-manage.trycloudflare.com/auth/callback",
+  "https://colony-belong-must-manage.trycloudflare.com/auth/shopify/callback",
+  "https://colony-belong-must-manage.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
