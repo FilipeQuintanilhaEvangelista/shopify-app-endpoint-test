@@ -3,7 +3,7 @@
 client_id = "6b71a939d9db982487be2e55286fbc6a"
 name = "teste-neki-hotsite"
 handle = "teste-neki-hotsite"
-application_url = "https://albert-narrative-periods-brooklyn.trycloudflare.com"
+application_url = "https://input-angela-cruise-copied.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "read_script_tags,write_products,write_script_tags"
 
 [auth]
 redirect_urls = [
-  "https://albert-narrative-periods-brooklyn.trycloudflare.com/auth/callback",
-  "https://albert-narrative-periods-brooklyn.trycloudflare.com/auth/shopify/callback",
-  "https://albert-narrative-periods-brooklyn.trycloudflare.com/api/auth/callback"
+  "https://input-angela-cruise-copied.trycloudflare.com/auth/callback",
+  "https://input-angela-cruise-copied.trycloudflare.com/auth/shopify/callback",
+  "https://input-angela-cruise-copied.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
